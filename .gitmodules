@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Madagascam/backend.git
+[submodule "heuristic_extractor"]
+	path = heuristic_extractor
+	url = https://github.com/Madagascam/heuristic_extractor
