@@ -1,3 +1,3 @@
 # main
 # Workflows
-![Update Submodules](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/update_submodules.yml/badge.svg)
+![Update Submodules](https://github.com/Madagascam/main/actions/workflows/update_submodules.yml/badge.svg)
